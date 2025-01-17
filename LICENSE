@@ -1,0 +1,73 @@
+LICENSE (CodeAnchor)
+(Русская версия)
+
+Авторское право (c) [jestelf], [2025]. Все права защищены.
+
+Область распространения
+Данная лицензия распространяется на исходный код, бинарные сборки, документацию и другие материалы, связанные с данным программным обеспечением (далее «Продукт»).
+
+Разрешённое использование (Некоммерческое)
+
+Разрешается использовать, копировать и распространять Продукт (включая модификации, адаптации и форки) исключительно в некоммерческих целях.
+Разрешается личное (домашнее) использование Продукта и модификация кода без ограничений, при условии соблюдения всех пунктов данной лицензии.
+Разрешается публикация форков, улучшений или модификаций в открытых репозиториях при условии сохранения данной лицензии и указания оригинального автора.
+Коммерческое использование
+
+Любое коммерческое использование Продукта (включая, но не ограничиваясь, продажу, аренду, предоставление платных услуг, использование в коммерческих проектах и модификациях) возможно только после получения письменного разрешения от автора.
+Для получения разрешения на коммерческое использование обратитесь к автору для обсуждения условий.
+Обязательные условия
+
+Продукт должен содержать оригинальные уведомления об авторском праве, включая данную лицензию.
+Любые модификации или адаптации должны сохранять явное указание на использование оригинального Продукта и автора.
+Отказ от гарантий
+
+Продукт предоставляется «как есть», без каких-либо гарантий, явных или подразумеваемых, включая (но не ограничиваясь) предполагаемые гарантии пригодности для конкретной цели.
+Автор не несёт ответственности за любые убытки или ущерб, возникшие в результате использования или невозможности использования Продукта.
+Запрещённые действия
+
+Удаление или изменение уведомлений об авторском праве или условиях лицензии.
+Нарушение положений данной лицензии.
+Использование Продукта для создания вредоносного ПО, эксплуатации уязвимостей, либо других незаконных целей.
+Форки и модификации
+
+Форки разрешены в некоммерческих целях с обязательным сохранением ссылки на оригинальный проект и данной лицензии.
+Модификации должны сохранять совместимость с базовым Продуктом, если предполагается их дальнейшее использование в сообществе.
+Контакт
+
+Для коммерческого использования, вопросов о лицензии или иных запросов свяжитесь с автором: [ваш контакт: email, GitHub, Telegram и т.д.].
+(English Version)
+
+Copyright (c) [jestelf], [2025]. All rights reserved.
+
+Scope
+This license applies to the source code, binary builds, documentation, and other materials related to this software (hereinafter referred to as the “Product”).
+
+Permitted Use (Non-commercial)
+
+You are allowed to use, copy, and distribute the Product (including modifications, adaptations, and forks) exclusively for non-commercial purposes.
+Personal (home) use and modification of the code are permitted, provided all terms of this license are observed.
+Publishing forks, improvements, or modifications in open repositories is allowed as long as this license and original author credits are preserved.
+Commercial Use
+
+Any commercial use of the Product (including but not limited to selling, renting, offering paid services, or using it in commercial projects and modifications) is only allowed with written permission from the author.
+Contact the author to discuss terms for commercial use.
+Mandatory Terms
+
+The Product must include original copyright notices, including this license.
+Any modifications or adaptations must explicitly state the use of the original Product and credit the author.
+Disclaimer of Warranty
+
+The Product is provided “as is,” without any explicit or implied warranties, including but not limited to implied warranties of merchantability or fitness for a particular purpose.
+The author shall not be liable for any damages or losses resulting from the use or inability to use the Product.
+Prohibited Actions
+
+Removing or altering any copyright or license notices.
+Violating the terms of this license.
+Using the Product for creating malicious software, exploiting vulnerabilities, or other illegal purposes.
+Forks and Modifications
+
+Forks are permitted for non-commercial purposes with a mandatory reference to the original project and this license.
+Modifications must retain compatibility with the base Product if they are intended for use within the community.
+Contact
+
+For commercial use, licensing questions, or other inquiries, contact the author: [Your Contact: Email, GitHub, Telegram, etc.].
